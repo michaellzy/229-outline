@@ -1,0 +1,43 @@
+
+		CMPUT 229 Laboratory Assignment #5
+		==================================
+
+Final Mark:     42   /100 MARKS TOTAL
+                =====
+Part 1:         _20__ /30 Public Test Cases
+
+Part 2:         _12__ /60 Private Test Cases
+
+Part 3:		__10_ /10 Style
+
+-------------------------------------------------------------------------
+Part 1: Public Test Cases
+
+__20_ /30
+
+ Test 1 __5__ /5 Test 2 __5__ /5 Test 3 __0__ /5
+
+ Test 4 __5__ /5 Test 5 __0__ /5 Test 6 __5__ /5
+
+------------------------------------------------------------------------
+Part 2: Private Test Cases
+
+
+ __12_ /60
+
+	Test 7 _0__ /7.5 Test 8 __0_ /7.5 Test 9 _4.5_ /7.5
+
+	Test 10 _0_ /7.5 Test 11 _0_ /7.5 Test 12 _0_ /7.5
+
+  Test 13 _7.5_ /7.5 Test 14 _0_ /7.5
+
+------------------------------------------------------------------------
+Part 3: Style
+
+ __10_ /10
+
+Some common deductions will include: (5 marks per deduction)
+	No subroutine description
+	No program header
+	No explanation for register usage
+	No block comments
